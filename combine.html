@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="combine.css" />
+    <title>MY WEBSITE!</title>
+  </head>
+
+  <body>
+    <header></header>
+
+    
+    <iframe name="dummyframe" id="dummyframe" style="display: none;"></iframe>
+    
+    <form id="myForm" action="combine.php" method = "POST" target="dummyframe">
+
+      <div>
+        <input type="submit" value = "ON" name = on style="font-size: 20px; background: white; border-radius: 50px; ">
+        <input type="submit" value = "OFF" name = off  style="font-size: 20px; background: black; border-radius: 50px; color: white;">
+
+    </div>
+
+    <button class="accordion"> <h1>Arm Controling</h1></button>
+    <div class="panel">
+      <p>
+
+        <!--Motor1-->
+        <h3>Motor1</h3>
+        <input type="range" min = "0" max = "180" value="0" id = "myRange1" class = "slider" name = "v1">
+        <p>Value: <span id = "value1"></span></p>
+
+        <!--Motor2-->
+        <h3>Motor2</h3>
+        <input type="range" min = "0" max = "180" value="0" id = "myRange2" class = "slider" name = "v2">
+        <p>Value: <span id = "value2"></span></p>
+        
+        <!--Motor3-->
+        <h3>Motor3</h3>
+        <input type="range" min = "0" max = "180" value="0" id = "myRange3" class = "slider" name = "v3">
+        <p>Value: <span id = "value3"></span></p>
+
+        <!--Motor4-->
+        <h3>Motor4</h3>
+        <input type="range" min = "0" max = "180" value="0" id = "myRange4" class = "slider" name = "v4">
+        <p>Value: <span id = "value4"></span></p>
+
+        <!--Motor5-->
+        <h3>Motor5</h3>
+        <input type="range" min = "0" max = "180" value="0" id = "myRange5" class = "slider" name = "v5">
+        <p>Value: <span id = "value5"></span></p>
+
+        <!--Motor6-->
+        <h3>Motor6</h3>
+        <input type="range" min = "0" max = "180" value="0" id = "myRange6" class = "slider" name = "v6">
+        <p>Value: <span id = "value6"></span></p>
+
+
+      </p>
+      
+    </div>
+    <input type="submit" value = "MOVE" name = go  style="font-size: 20px; background: rgb(117, 252, 117); border-radius: 50px;" > 
+
+    
+    <button class="accordion"><h1>Base Controling</h1></button>
+    <div class="panel">
+      <p>
+          
+            <input type="submit" value = "Left" name = left style="font-size: 20px; background: black; border-radius: 50px; color: plum;" >
+            <input type="submit" value = "Right" name = right style="font-size: 20px; background: black; border-radius: 50px; color: plum;"> 
+            <input type="submit" value = "Forward" name = forward style="font-size: 20px; background: black; border-radius: 50px; color: plum;">
+            <input type="submit" value = "Backward" name = backward style="font-size: 20px; background: black; border-radius: 50px; color: plum;">
+       
+      </p>
+    </div>
+
+    
+
+    </form>
+    
+        
+
+        
+
+
+      
+
+
+   
+
+  </body>
+  <script src="combine.js"></script>
+</html>
