@@ -41,9 +41,9 @@ Please if you have any question just contact me
 
 ## Authors
 
-. Asma Sarouji  
-. [My LinkedIn account ](https://www.linkedin.com/in/asma-sarouji-265484149/)<br/>
-. [@samaabdullah98] 
+ I'm an Electrical and Computer Engineer student at KAU in KSA I'm a self learning person. I love programming and electronics. 
+. [My LinkedIn Account ](https://www.linkedin.com/in/asma-sarouji-265484149/)<br/>
+. [My Instagram Account](https://www.instagram.com/samaabdullah98/)
 
 
 
