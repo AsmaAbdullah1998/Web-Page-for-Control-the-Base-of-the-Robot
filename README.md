@@ -23,7 +23,7 @@ In this web page we will control the angles of the motors and the range of servo
 * combine.css
 * combine.js
 * combine.php
-* pic.jpg
+* pic2.jpg
 
 
 ## NOTE
