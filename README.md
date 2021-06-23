@@ -25,8 +25,6 @@ In this web page we will control the angles of the motors and the range of servo
 * combine.php
 * pic2.jpg
 
-### Video 
-* Web Page control movement of the robot.
 
 ### Pictures
 <img width="970" alt="Screen Shot 2021-06-24 at 12 18 06 AM" src="https://user-images.githubusercontent.com/66702376/123169346-d8e9c200-d481-11eb-9ec0-ddac00036aa7.png">
