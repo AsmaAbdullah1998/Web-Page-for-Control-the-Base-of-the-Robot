@@ -25,6 +25,12 @@ In this web page we will control the angles of the motors and the range of servo
 * combine.php
 * pic2.jpg
 
+### Video 
+* Web Page control movement of the robot.
+
+### Picture
+
+
 
 ## NOTE
 
@@ -38,7 +44,7 @@ Please if you have any question just contact me
 
 
 
-## Authors
+## Author
 
  I'm an Electrical and Computer Engineer student at KAU in KSA I'm a self learning person. I love programming and electronics.<br/> 
  [email:asma-sarouji@hotmail.com]<br/>
