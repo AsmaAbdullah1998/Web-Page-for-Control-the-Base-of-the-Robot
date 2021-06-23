@@ -63,6 +63,6 @@ Please if you have any question just contact me
 
 ## Acknowledgments
 
-THIS WORK WAS BASED ON THE TRAINING IN SMAR METHODS SAUDI COMPANY.
+THIS WORK WAS BASED ON THE TRAINING IN SMART METHODS SAUDI COMPANY.
 * [Smart Methods Page](https://www.s-m.com.sa)
 * [youtube of smart methods](https://youtu.be/0iPByiZVHFw)
