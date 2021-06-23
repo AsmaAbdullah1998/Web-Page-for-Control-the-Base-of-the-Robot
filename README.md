@@ -42,8 +42,8 @@ Please if you have any question just contact me
 ## Authors
 
 . Asma Sarouji  
-. [My LinkedIn account ](https://www.linkedin.com/in/asma-sarouji-265484149/)
-. [My Instagram account ](@samaabullah98)
+. [My LinkedIn account ](https://www.linkedin.com/in/asma-sarouji-265484149/)<br/>
+. [@samaabdullah98] 
 
 
 
